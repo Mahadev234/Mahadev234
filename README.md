@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mahadev234
+- 👋 Hi, I’m @Mahadeva Sankaram .T
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning full stack web development
 - 📫 How to reach me +91 77993 93867
