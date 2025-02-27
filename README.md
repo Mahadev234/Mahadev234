@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently a **Student at GITAM, Visakhapatnam**
 
-- 🌱 I’m currently learning **Svelte, Nestjs**
-
 - 👯 I’m looking to collaborate on **building websites with AI integration**
 
 - 🤝 I’m looking for help with **learning new technologies**
